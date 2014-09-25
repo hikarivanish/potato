@@ -1,0 +1,50 @@
+.done-true {
+  text-decoration: line-through;
+  color: grey;
+}
+
+header{
+	width: 100%;
+	height: 20px;
+	position: fixed;
+	top: 0;
+	left: 0;
+	right: 0;
+	background-color: #ffffdd;
+}
+header span{
+	
+	-webkit-app-region:drag;
+	-webkit-user-select :none;
+}
+header a{
+float:right
+}
+ul {
+	padding-left: 0;
+	list-style: none;
+	margin-top: 0;
+}
+li span{
+	width: 100%;
+}
+body{
+	/*background-color: #ffffdd;*/
+}
+form{
+	position: fixed;
+	bottom: 0;
+	left: 0;
+	right: 0;
+}
+form  input{
+	width: 100%;
+	margin: 0;
+}
+hr{
+	margin:0;
+}
+#todolist {
+	margin-top: 30px;
+	margin-bottom: 30px;
+}

@@ -1,0 +1,12 @@
+{
+	"main":"index.html",
+	"name":"nwtest1",
+	"window":{
+		"toolbar":false,
+		"frame":false,
+		"width":250,
+		"height":400,
+		"resizable":true,
+		"show_in_taskbar":true
+	}
+}
